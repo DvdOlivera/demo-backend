@@ -12,6 +12,13 @@ Con el fin de poder generar peticiones a la base de datos  es necesario contar c
 
 ### Peticiones GET 
 
-Para hacer una petición del tipo GET
+- Seleccionar el método GET
+
+- Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
+
+- Clickear en el botón SEND.
+
+Abajo en la pestaña de Body aparecerá un arreglo con los Usuarios creados en  la Base de datos.
+
 
 
