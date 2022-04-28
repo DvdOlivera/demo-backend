@@ -20,5 +20,13 @@ Con el fin de poder generar peticiones a la base de datos  es necesario contar c
 
 Abajo en la pestaña de Body aparecerá un arreglo con los Usuarios creados en  la Base de datos.
 
+Además, podemos obtener cada Usuario registrado en la Base de datos agregando una barra "/" mas el ID del Usuario, por ejemplo :
+
+- https://springgcp-345817.rj.r.appspot.com/usuarios/1
+
+Esto nos devolverá el Usuario con el ID 1 .
+
+
+
 
 
