@@ -26,6 +26,17 @@ Además, podemos obtener cada Usuario registrado en la Base de datos agregando u
 
 Esto nos devolverá el Usuario con el ID 1 .
 
+### Peticiones POST
+
+- Seleccionar el método POST
+
+- Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
+
+- Seleccionar la opción "Body" en el campo inferior
+- Tildar la opción "raw"
+- Seleccionar el tipo de archivo "JSON"
+
+
 
 
 
