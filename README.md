@@ -33,8 +33,19 @@ Esto nos devolverá el Usuario con el ID 1 .
 - Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
 
 - Seleccionar la opción "Body" en el campo inferior
+
 - Tildar la opción "raw"
+
 - Seleccionar el tipo de archivo "JSON"
+
+- Completar el campo inferior con los datos necesarios para cargar un nuevo usuario a la base de datos
+
+- Clickear en el botón SEND
+
+Nos devolverá el usuario ya creado con un ID.
+
+### Peticiones DELETE ( No permitidas )
+
 
 
 
