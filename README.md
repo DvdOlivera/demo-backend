@@ -18,9 +18,15 @@ Con el fin de poder generar peticiones a la base de datos  es necesario contar c
 
 - Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
 
+![Imgur](https://i.imgur.com/g3nr36y.png)
+
 - Clickear en el botón SEND.
 
+![Imgur](https://i.imgur.com/1EYCNT7.png)
+
 Abajo en la pestaña de Body aparecerá un arreglo con los Usuarios creados en  la Base de datos.
+
+![Imgur](https://i.imgur.com/v7QuJ3w.png)
 
 Además, podemos obtener cada Usuario registrado en la Base de datos agregando una barra "/" mas el ID del Usuario, por ejemplo :
 
