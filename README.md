@@ -38,19 +38,35 @@ Esto nos devolverá el Usuario con el ID 1 .
 
 - Seleccionar el método POST
 
+![Imgur](https://i.imgur.com/d5T3imS.png)
+
 - Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
+
+![Imgur](https://i.imgur.com/zt6GhQw.png)
 
 - Seleccionar la opción "Body" en el campo inferior
 
+![Imgur](https://i.imgur.com/sewylMs.png)
+
 - Tildar la opción "raw"
+
+![Imgur](https://i.imgur.com/BT2MGXX.png)
 
 - Seleccionar el tipo de archivo "JSON"
 
+![Imgur](https://i.imgur.com/xqkm1Ui.png)
+
 - Completar el campo inferior con los datos necesarios para cargar un nuevo usuario a la base de datos
+
+![Imgur](https://i.imgur.com/gWDppRn.png)
 
 - Clickear en el botón SEND
 
+![Imgur](https://i.imgur.com/EqG1k0Q.png)
+
 Nos devolverá el usuario ya creado con un ID.
+
+![Imgur](https://i.imgur.com/lhWabjs.png)
 
 ### Peticiones DELETE ( No permitidas )
 
