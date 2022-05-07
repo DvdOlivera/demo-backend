@@ -14,6 +14,8 @@ Con el fin de poder generar peticiones a la base de datos  es necesario contar c
 
 - Seleccionar el método GET
 
+[Imgur](https://i.imgur.com/V6cLJO5.png)
+
 - Completar el campo para la URL copiando el siguiente link https://springgcp-345817.rj.r.appspot.com/usuarios
 
 - Clickear en el botón SEND.
